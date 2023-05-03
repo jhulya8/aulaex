@@ -25,23 +25,23 @@ public class Condicoes : MonoBehaviour
 
         if (_i1 == 1)
         {
-            Debug.Log("fase 1 liberada");
+           // Debug.Log("fase 1 liberada");
         }
         else
         {
-            Debug.Log("fase 1 bloqueada");
+            //Debug.Log("fase 1 bloqueada");
 
         }
 
 
         if (_t1 == "Multiplicação")
         {
-            Debug.Log(_i1 * _i2);
+            //Debug.Log(_i1 * _i2);
 
         }
         else
         {
-            Debug.Log(_i1 + _i2);
+            //Debug.Log(_i1 + _i2);
         }
 
 
@@ -55,17 +55,17 @@ public class Condicoes : MonoBehaviour
          
         if(_i1 == 2)
         {
-            Debug.Log(_t1 == "passagem liberada");
+            //Debug.Log(_t1 == "passagem liberada");
         }
         else
         {
-            Debug.Log(_t1 == "passagem bloqueada");
+            //Debug.Log(_t1 == "passagem bloqueada");
 
         }
 
         if (_i1 == _i2 && _b1 == true)
         {
-            Debug.Log("entra na fase");
+            //Debug.Log("entra na fase");
         }
 
         void Update()
