@@ -68,15 +68,14 @@ public class Condicoes : MonoBehaviour
             //Debug.Log("entra na fase");
         }
 
-        void Update()
         {
+            
+            
+
+
+
 
         }
-
-
-
-
-
 
     }
 }

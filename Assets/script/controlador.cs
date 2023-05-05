@@ -30,7 +30,7 @@ public class controlador : MonoBehaviour
         if (_checkcube == false)
 
         {
-            _shepere.SetActive(false);
+           _shepere.SetActive(false);
         }
         else
         {
